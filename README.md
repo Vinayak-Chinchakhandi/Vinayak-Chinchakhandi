@@ -28,7 +28,7 @@
 ### 🎮 [Flappy Bird Game (Python & Pygame)][(https://github.com/Vinayak-Chinchakhandi/Flappy_Bird_Game)]
 A fun clone of the classic Flappy Bird game built using **Python and Pygame**, focusing on game mechanics, physics, and smooth controls.  
 
-### 🔐 [SecureSphere – Hackathon Project](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)  
+### 🔐 [SecureSphere – Hackathon Project][(https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)]  
 A cybersecurity-focused project with three integrated tools:  
 - AI Assistant trained for cybersecurity Q&A  
 - Smart Secure Email Authentication (OTP/Passkey based)  
