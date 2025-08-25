@@ -10,18 +10,21 @@
 
 ---
 
-## 🛠️ Skills  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)  
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?logo=phpmyadmin&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?logo=visualstudiocode&logoColor=white)  
+## 🛠️ Skills 
+<p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>  
+</p>
 
+ 
 ---
 
 ## 🚀 Featured Projects  
