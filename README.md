@@ -10,7 +10,8 @@
 
 ---
 
-## 🛠️ Skills 
+## 🛠️ Skills  
+
 <p>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
@@ -22,9 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>  
-</p>
+</p>  
 
- 
 ---
 
 ## 🚀 Featured Projects  
@@ -55,14 +55,23 @@ A cybersecurity-focused project with three integrated tools:
 
 ---
 
-## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Chinchakhandi&layout=compact&theme=tokyonight)
+## 📊 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Chinchakhandi&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-chinchakhandi)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/Vinayak-Chinchakhandi)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:vinayakchinchakhandi165@gmail.com)  
+
+<p>  
+  <a href="https://www.linkedin.com/in/vinayak-chinchakhandi" target="_blank">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>  
+  </a>  
+  <a href="https://github.com/Vinayak-Chinchakhandi" target="_blank">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>  
+  </a>  
+  <a href="mailto:vinayakchinchakhandi165@gmail.com">  
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" height="50" alt="Email"/>  
+  </a>  
+</p>  
 
 ---
