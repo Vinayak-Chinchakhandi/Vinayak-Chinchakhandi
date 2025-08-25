@@ -25,10 +25,10 @@
 ---
 
 ## 🚀 Featured Projects  
-### 🎮 [Flappy Bird Game (Python & Pygame)][(https://github.com/Vinayak-Chinchakhandi/Flappy_Bird_Game)]
+### 🎮 [Flappy Bird Game (Python & Pygame)](https://github.com/Vinayak-Chinchakhandi/Flappy_Bird_Game)  
 A fun clone of the classic Flappy Bird game built using **Python and Pygame**, focusing on game mechanics, physics, and smooth controls.  
 
-### 🔐 [SecureSphere – Hackathon Project][(https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)]  
+### 🔐 [SecureSphere – Hackathon Project](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)  
 A cybersecurity-focused project with three integrated tools:  
 - AI Assistant trained for cybersecurity Q&A  
 - Smart Secure Email Authentication (OTP/Passkey based)  
@@ -40,20 +40,20 @@ A cybersecurity-focused project with three integrated tools:
 - 🤖 Built **AI Chatbots** for interactive Q&A  
 - 📄 Developed tools for **Research Paper Analysis**  
 - 🌍 Created simple **Web Projects** using HTML, CSS, JS:  
-  - Responsive Landing Page (Travel Website)  
-  - Quiz Game App  
-  - Task Management System (To-Do App with LocalStorage)  
-  - Smart Stopwatch  
+  - [Responsive Travel Website](https://github.com/Vinayak-Chinchakhandi/Travel-Landing-Page)  
+  - [Quiz Game App](https://github.com/Vinayak-Chinchakhandi/Quiz-Game)  
+  - [To-Do App with LocalStorage](https://github.com/Vinayak-Chinchakhandi/ToDo-App)  
+  - [Smart Stopwatch](https://github.com/Vinayak-Chinchakhandi/Smart-Stopwatch)  
 
 ---
 
 ## 📊 GitHub Stats  
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Chinchakhandi&show_icons=true&theme=default)  
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Chinchakhandi&show_icons=true&theme=tokyonight)  
 
 ---
 
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Chinchakhandi&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Chinchakhandi&layout=compact&theme=tokyonight)
 
 ---
 
