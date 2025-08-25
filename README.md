@@ -40,10 +40,10 @@ A cybersecurity-focused project with three integrated tools:
 - 🤖 Built **AI Chatbots** for interactive Q&A  
 - 📄 Developed tools for **Research Paper Analysis**  
 - 🌍 Created simple **Web Projects** using HTML, CSS, JS:  
-  - [Responsive Travel Website](https://github.com/Vinayak-Chinchakhandi/Travel-Landing-Page)  
-  - [Quiz Game App](https://github.com/Vinayak-Chinchakhandi/Quiz-Game)  
-  - [To-Do App with LocalStorage](https://github.com/Vinayak-Chinchakhandi/ToDo-App)  
-  - [Smart Stopwatch](https://github.com/Vinayak-Chinchakhandi/Smart-Stopwatch)  
+  - Responsive Travel Website.  
+  - Quiz Game App.  
+  - To-Do App with LocalStorage.  
+  - Smart Stopwatch.  
 
 ---
 
