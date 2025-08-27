@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me  
 - 🎓 Student at **KLS Gogte Institute of Technology, Belagavi**  
 - 📡 Successfully completed ISOC’s *Designing & Deploying Computer Networks (DDCN)* course + hands-on bootcamp  
-- 💡 Interested in **Software Development, Web Technologies, and Cybersecurity**  
+- 💡 Interested in **Software Development, Web Technologies, and problem solving**  
 - 🌱 Currently exploring **Full-Stack Development** and practical real-world applications  
 
 ---
