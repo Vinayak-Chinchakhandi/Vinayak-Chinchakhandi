@@ -1,12 +1,14 @@
 # Hi 👋, I'm Vinayak  
 💻 Passionate Developer | 🌐 Exploring Technology, Innovation & Development  
+*"Always learning, always building 🚀"*  
 
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 Student at KLS Gogte Institute of Technology, Belagavi  
-- 📡 Successfully completed ISOC’s *Designing & Deploying Computer Networks (DDCN)* course and 3-day hands-on bootcamp  
-- 💡 Interested in Software Development, Web Technologies, and practical real-world applications  
+- 🎓 Student at **KLS Gogte Institute of Technology, Belagavi**  
+- 📡 Successfully completed ISOC’s *Designing & Deploying Computer Networks (DDCN)* course + hands-on bootcamp  
+- 💡 Interested in **Software Development, Web Technologies, and Cybersecurity**  
+- 🌱 Currently exploring **Full-Stack Development** and practical real-world applications  
 
 ---
 
@@ -43,20 +45,18 @@ A cybersecurity-focused project with three integrated tools:
 - 🤖 Built **AI Chatbots** for interactive Q&A  
 - 📄 Developed tools for **Research Paper Analysis**  
 - 🌍 Created simple **Web Projects** using HTML, CSS, JS:  
-  - Responsive Travel Website.  
-  - Quiz Game App.  
-  - To-Do App with LocalStorage.  
-  - Smart Stopwatch.  
+  - Responsive Travel Website  
+  - Quiz Game App  
+  - To-Do App with LocalStorage  
+  - Smart Stopwatch  
 
 ---
 
 ## 📊 GitHub Stats  
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Chinchakhandi&show_icons=true&theme=default)  
 
----
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Chinchakhandi&show_icons=true&theme=tokyonight)  
 
-## 📊 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Chinchakhandi&layout=compact&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Chinchakhandi&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -66,11 +66,8 @@ A cybersecurity-focused project with three integrated tools:
   <a href="https://www.linkedin.com/in/vinayak-chinchakhandi" target="_blank">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>  
   </a>  
-  <a href="https://github.com/Vinayak-Chinchakhandi" target="_blank">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>  
-  </a>  
   <a href="mailto:vinayakchinchakhandi165@gmail.com">  
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" height="50" alt="Email"/>  
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" height="50" alt="Gmail"/>  
   </a>  
 </p>  
 
