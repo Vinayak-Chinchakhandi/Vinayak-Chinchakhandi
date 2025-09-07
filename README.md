@@ -54,9 +54,9 @@ A cybersecurity-focused project with three integrated tools:
 
 ## 📊 GitHub Stats  
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Chinchakhandi&show_icons=true&theme=tokyonight)  
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Chinchakhandi&show_icons=true&theme=tokyonight&cache_seconds=1800)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Chinchakhandi&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Chinchakhandi&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
