@@ -53,7 +53,7 @@ A cybersecurity-focused project with three integrated tools:
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vinayak-Chinchakhandi&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&t=1)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Vinayak-Chinchakhandi&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Chinchakhandi&layout=compact&theme=tokyonight&count_private=true)
 
