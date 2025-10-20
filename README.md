@@ -44,7 +44,7 @@ A cybersecurity-focused project with three integrated tools:
 - 🤖 Built **AI Chatbots** for interactive Q&A  
 - 📄 Developed tools for **Research Paper Analysis**  
 - 🌍 Created simple **Web Projects** using HTML, CSS, JS:  
-  - Responsive Travel Website  
+  - Responsive landing page for Travel Website  
   - Quiz Game App  
   - To-Do App with LocalStorage  
   - Smart Stopwatch  
