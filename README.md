@@ -29,8 +29,11 @@
 ---
 
 ## 🚀 Featured Projects  
-### 🎮 [Flappy Bird Game (Python & Pygame)](https://github.com/Vinayak-Chinchakhandi/Flappy_Bird_Game)  
-A fun clone of the classic Flappy Bird game built using **Python and Pygame**, focusing on game mechanics, physics, and smooth controls.  
+### 🎵 [Moodify](https://github.com/Vinayak-Chinchakhandi/Moodify)
+Mood Based Music Recommendation Web App with Audio & Video Playback.  
+
+### 🧠 [Quick quiz](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
+A modern React quiz app with category-based questions, leaderboard, user profiles, and JSONBin.io data storage.
 
 ### 🔐 [SecureSphere](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)  
 A cybersecurity-focused project with three integrated tools:  
