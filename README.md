@@ -58,8 +58,6 @@ A cybersecurity-focused project with three integrated tools:
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Vinayak-Chinchakhandi&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Chinchakhandi&layout=compact&theme=tokyonight&count_private=true)
-
 ---
 
 ## 📫 Connect With Me  
