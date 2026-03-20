@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vinayak  
-💻 Passionate Developer | 🌐 Exploring Technology, Innovation & Development  
+💻 Full-Stack Developer | 🚇 Building Real-World Tech & Data Solutions  
 *"Always learning, always building 🚀"*  
 
 ---
@@ -8,7 +8,8 @@
 - 🎓 Student at **KLS Gogte Institute of Technology, Belagavi**  
 - 📡 Successfully completed ISOC’s *Designing & Deploying Computer Networks (DDCN)* course + hands-on bootcamp  
 - 💡 Interested in **Software Development, Web Technologies, and problem solving**  
-- 🌱 Currently exploring **Full-Stack Development** and practical real-world applications  
+- 🌱 Currently exploring **Full-Stack Development** and real-world applications  
+- 🚇 Published a **Bengaluru Metro Dataset** on Kaggle & GitHub for smart city applications  
 
 ---
 
@@ -28,12 +29,17 @@
 
 ---
 
-## 🚀 Featured Projects  
-### 🎵 [Moodify](https://github.com/Vinayak-Chinchakhandi/Moodify)
-Mood Based Music Recommendation Web App with Audio & Video Playback.  
+## 📊 Featured Dataset  
 
-### 🧠 [Quick quiz](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
-A modern React quiz app with category-based questions, leaderboard, user profiles, and JSONBin.io data storage.
+### 🚇 Bengaluru Metro Dataset  
+Graph-based metro dataset with geospatial coordinates and station connectivity for routing and analysis.  
+
+- 📊 [View on Kaggle](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)  
+- 💻 [View on GitHub](https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)  
+
+---
+
+## 🚀 Featured Projects  
 
 ### 🔐 [SecureSphere](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)  
 A cybersecurity-focused project with three integrated tools:  
@@ -41,20 +47,26 @@ A cybersecurity-focused project with three integrated tools:
 - Smart Secure Email Authentication (OTP/Passkey based)  
 - Phishing Website Detection System  
 
+### 🎵 [Moodify](https://github.com/Vinayak-Chinchakhandi/Moodify)
+Mood Based Music Recommendation Web App with Audio & Video Playback  
+
+### 🧠 [Quick Quiz](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
+A modern React quiz app with category-based questions, leaderboard, and user profiles  
+
 ---
 
 ## 📌 Other Projects  
 - 🤖 Built **AI Chatbots** for interactive Q&A  
 - 📄 Developed tools for **Research Paper Analysis**  
-- 🌍 Created simple **Web Projects** using HTML, CSS, JS:  
-  - Responsive landing page for Travel Website  
+- 🌍 Created **Web Projects** using HTML, CSS, JS:  
+  - Travel Website Landing Page  
   - Quiz Game App  
   - To-Do App with LocalStorage  
   - Smart Stopwatch  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Vinayak-Chinchakhandi&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D)
 
