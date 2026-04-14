@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vinayak</h1>
-<h3 align="center">Full Stack Developer | Exploring AI & Real-World Solutions</h3>
+<div align="center">
+
+# Hi 👋, I'm Vinayak  
+### Full Stack Developer | Exploring AI & Real-World Solutions  
+
+</div>
 
 ---
 
@@ -31,19 +35,19 @@
 
 ### 🔐 SecureSphere  
 Cybersecurity platform with AI assistant, email authentication, and phishing detection  
-[View Repository](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)
+🔗 [View Repository](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)
 
 ---
 
 ### 🎵 Moodify  
 Mood-based music recommendation web app with audio/video playback  
-[View Repository](https://github.com/Vinayak-Chinchakhandi/Moodify)
+🔗 [View Repository](https://github.com/Vinayak-Chinchakhandi/Moodify)
 
 ---
 
 ### 🧠 Quick Quiz  
 React quiz platform with leaderboard and user profiles  
-[View Repository](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
+🔗 [View Repository](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
 
 ---
 
@@ -53,8 +57,8 @@ React quiz platform with leaderboard and user profiles
 
 Graph-based metro dataset with geospatial coordinates and connectivity  
 
-[View on Kaggle](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)  
-[View on GitHub](https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)  
+🔗 [View on Kaggle](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)  
+🔗 [View on GitHub](https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)  
 
 ---
 
@@ -66,28 +70,28 @@ Graph-based metro dataset with geospatial coordinates and connectivity
 
 ## 🧠 GitHub Summary  
 
-<div align="center" style="border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+<table>
+<tr>
+<td colspan="2" align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayak-Chinchakhandi&theme=tokyonight" />
 
-<br><br>
+</td>
+</tr>
 
-<table>
 <tr>
-<td>
+<td align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayak-Chinchakhandi&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayak-Chinchakhandi&theme=tokyonight" height="200"/>
 
 </td>
-<td>
+<td align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinayak-Chinchakhandi&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinayak-Chinchakhandi&theme=tokyonight" height="200"/>
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
