@@ -1,86 +1,113 @@
-# Hi 👋, I'm Vinayak  
-💻 Full-Stack Developer | 🚇 Building Real-World Tech & Data Solutions  
-*"Always learning, always building 🚀"*  
+<h1 align="center">Hi 👋, I'm Vinayak</h1>
+<h3 align="center">Full Stack Developer | Exploring AI & Real-World Solutions</h3>
 
 ---
 
 ## 👨‍💻 About Me  
+
 - 🎓 Student at **KLS Gogte Institute of Technology, Belagavi**  
-- 📡 Successfully completed ISOC’s *Designing & Deploying Computer Networks (DDCN)* course + hands-on bootcamp  
-- 💡 Interested in **Software Development, Web Technologies, and problem solving**  
-- 🌱 Currently exploring **Full-Stack Development** and real-world applications  
-- 🚇 Published a **Bengaluru Metro Dataset** on Kaggle & GitHub for smart city applications  
+- 📡 Completed ISOC’s *Designing & Deploying Computer Networks (DDCN)* + hands-on bootcamp  
+- 💡 Interested in **Software Development, AI, and Problem Solving**  
+- 🌱 Exploring **Full-Stack Development & Real-World Applications**  
+- 🚇 Built and published **Bengaluru Metro Dataset**  
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Tech Stack  
 
-<p>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>  
-</p>  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔐 SecureSphere  
+Cybersecurity platform with AI assistant, email authentication, and phishing detection  
+[View Repository](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)
+
+---
+
+### 🎵 Moodify  
+Mood-based music recommendation web app with audio/video playback  
+[View Repository](https://github.com/Vinayak-Chinchakhandi/Moodify)
+
+---
+
+### 🧠 Quick Quiz  
+React quiz platform with leaderboard and user profiles  
+[View Repository](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
 
 ---
 
 ## 📊 Featured Dataset  
 
 ### 🚇 Bengaluru Metro Dataset  
-Graph-based metro dataset with geospatial coordinates and station connectivity for routing and analysis.  
 
-- 📊 [View on Kaggle](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)  
-- 💻 [View on GitHub](https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)  
+Graph-based metro dataset with geospatial coordinates and connectivity  
 
----
-
-## 🚀 Featured Projects  
-
-### 🔐 [SecureSphere](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)  
-A cybersecurity-focused project with three integrated tools:  
-- AI Assistant trained for cybersecurity Q&A  
-- Smart Secure Email Authentication (OTP/Passkey based)  
-- Phishing Website Detection System  
-
-### 🎵 [Moodify](https://github.com/Vinayak-Chinchakhandi/Moodify)
-Mood Based Music Recommendation Web App with Audio & Video Playback  
-
-### 🧠 [Quick Quiz](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
-A modern React quiz app with category-based questions, leaderboard, and user profiles  
+[View on Kaggle](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)  
+[View on GitHub](https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)  
 
 ---
 
-## 📌 Other Projects  
-- 🤖 Built **AI Chatbots** for interactive Q&A  
-- 📄 Developed tools for **Research Paper Analysis**  
-- 🌍 Created **Web Projects** using HTML, CSS, JS:  
-  - Travel Website Landing Page  
-  - Quiz Game App  
-  - To-Do App with LocalStorage  
-  - Smart Stopwatch  
+## 📈 Contribution Graph  
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak-Chinchakhandi&theme=tokyo-night)](https://github.com/Vinayak-Chinchakhandi)
 
 ---
 
-## 📊 GitHub Stats  
+## 🧠 GitHub Summary  
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Vinayak-Chinchakhandi&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D)
+<div align="center" style="border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayak-Chinchakhandi&theme=tokyonight" />
+
+<br><br>
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayak-Chinchakhandi&theme=tokyonight" />
+
+</td>
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinayak-Chinchakhandi&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 👀 Profile Views  
+
+![](https://komarev.com/ghpvc/?username=Vinayak-Chinchakhandi&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ## 📫 Connect With Me  
 
-<p>  
-  <a href="https://www.linkedin.com/in/vinayak-chinchakhandi" target="_blank">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>  
-  </a>  
-  <a href="mailto:vinayakchinchakhandi165@gmail.com">  
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" height="50" alt="Gmail"/>  
-  </a>  
-</p>  
+<p>
+  <a href="https://www.linkedin.com/in/vinayak-chinchakhandi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+  </a>
+  <a href="mailto:vinayakchinchakhandi165@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" height="50"/>
+  </a>
+</p>
 
 ---
+
+⭐️ *Always building 🚀*
