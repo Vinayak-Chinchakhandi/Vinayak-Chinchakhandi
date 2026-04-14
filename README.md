@@ -35,19 +35,19 @@
 
 ### 🔐 SecureSphere  
 Cybersecurity platform with AI assistant, email authentication, and phishing detection  
-🔗 [View Repository](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)
+[View Repository](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)
 
 ---
 
 ### 🎵 Moodify  
 Mood-based music recommendation web app with audio/video playback  
-🔗 [View Repository](https://github.com/Vinayak-Chinchakhandi/Moodify)
+[View Repository](https://github.com/Vinayak-Chinchakhandi/Moodify)
 
 ---
 
 ### 🧠 Quick Quiz  
 React quiz platform with leaderboard and user profiles  
-🔗 [View Repository](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
+[View Repository](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
 
 ---
 
@@ -57,8 +57,8 @@ React quiz platform with leaderboard and user profiles
 
 Graph-based metro dataset with geospatial coordinates and connectivity  
 
-🔗 [View on Kaggle](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)  
-🔗 [View on GitHub](https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)  
+[View on Kaggle](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)  
+[View on GitHub](https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)  
 
 ---
 
