@@ -1,9 +1,6 @@
-<div align="center">
 
 # Hi 👋, I'm Vinayak  
 ### Full Stack Developer | Exploring AI & Real-World Solutions  
-
-</div>
 
 ---
 
@@ -62,6 +59,16 @@ Graph-based metro dataset with geospatial coordinates and connectivity
 
 ---
 
+## 🔥 GitHub Streak  
+
+<table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vinayak-Chinchakhandi&theme=tokyonight" />
+
+</table>
+
+---
+
 ## 📈 Contribution Graph  
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak-Chinchakhandi&theme=tokyo-night)](https://github.com/Vinayak-Chinchakhandi)
@@ -105,10 +112,10 @@ Graph-based metro dataset with geospatial coordinates and connectivity
 
 <p>
   <a href="https://www.linkedin.com/in/vinayak-chinchakhandi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
   <a href="mailto:vinayakchinchakhandi165@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45"/>
   </a>
 </p>
 
