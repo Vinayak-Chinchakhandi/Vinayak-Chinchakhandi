@@ -1,124 +1,133 @@
+👋 Hi, I'm Vinayak Chinchakhandi
 
-# Hi 👋, I'm Vinayak  
-### Full Stack Developer | Exploring AI & Real-World Solutions  
+🚀 Full Stack Developer • AI Explorer • Problem Solver
 
----
+<p align="center">
+  <b>Building intelligent systems that solve real-world problems</b><br/>
+  <i>Focused on Full Stack Development + AI Integration</i>
+</p>---
 
-## 👨‍💻 About Me  
+⚡ Profile Snapshot
 
-- 🎓 Student at **KLS Gogte Institute of Technology, Belagavi**  
-- 📡 Completed ISOC’s *Designing & Deploying Computer Networks (DDCN)* + hands-on bootcamp  
-- 💡 Interested in **Software Development, AI, and Problem Solving**  
-- 🌱 Exploring **Full-Stack Development & Real-World Applications**  
-- 🚇 Built and published **Bengaluru Metro Dataset**  
-
----
-
-## 🛠️ Tech Stack  
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 🎓 Final Year B.E. @ KLS Gogte Institute of Technology, Belagavi
+- 💻 Full Stack Developer (React • Node • FastAPI)
+- 🤖 Exploring AI-driven applications & intelligent systems
+- 📡 ISOC Certified – Designing & Deploying Computer Networks (DDCN)
+- 🚇 Published Bengaluru Metro Network Dataset (Graph + Geo Data)
 
 ---
 
-## 🚀 Featured Projects  
+💡 Core Strengths
 
-### 🔐 SecureSphere  
-Cybersecurity platform with AI assistant, email authentication, and phishing detection  
-[View Repository](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)
-
----
-
-### 🎵 Moodify  
-Mood-based music recommendation web app with audio/video playback  
-[View Repository](https://github.com/Vinayak-Chinchakhandi/Moodify)
+- 🧩 Problem-solving with structured thinking
+- 🌐 Building complete end-to-end applications
+- ⚙️ Integrating AI into practical workflows
+- 📊 Designing data-driven systems
 
 ---
 
-### 🧠 Quick Quiz  
-React quiz platform with leaderboard and user profiles  
-[View Repository](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
+🛠️ Tech Stack
+
+Languages
+Java • Python • C • JavaScript
+
+Frontend & Backend
+React • Node.js • Express • Tailwind CSS
+
+Databases
+PostgreSQL • Firebase
+
+AI / Concepts
+Machine Learning • NLP • Recommendation Systems
 
 ---
 
-## 📊 Featured Dataset  
+🚀 Key Projects
 
-### 🚇 Bengaluru Metro Dataset  
+🔐 SecureSphere
 
-Graph-based metro dataset with geospatial coordinates and connectivity  
+AI-powered cybersecurity platform
 
-[View on Kaggle](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)  
-[View on GitHub](https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)  
+- Phishing detection module
+- Email authentication features
+- AI assistant for security awareness
 
----
-
-## 🔥 GitHub Streak  
-
-<table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vinayak-Chinchakhandi&theme=tokyonight" />
-
-</table>
+🔗 https://github.com/Vinayak-Chinchakhandi/Secure-Sphere
 
 ---
 
-## 📈 Contribution Graph  
+🎵 Moodify
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak-Chinchakhandi&theme=tokyo-night)](https://github.com/Vinayak-Chinchakhandi)
+Mood-based music recommendation system
 
----
+- Emotion-based recommendation logic
+- Integrated media playback
+- Clean and responsive UI
 
-## 🧠 GitHub Summary  
-
-<table>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinayak-Chinchakhandi&theme=tokyonight" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayak-Chinchakhandi&theme=tokyonight" height="200"/>
-
-</td>
-<td align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinayak-Chinchakhandi&theme=tokyonight" height="200"/>
-
-</td>
-</tr>
-</table>
+🔗 https://github.com/Vinayak-Chinchakhandi/Moodify
 
 ---
 
-## 👀 Profile Views  
+🧠 Quick Quiz
 
-![](https://komarev.com/ghpvc/?username=Vinayak-Chinchakhandi&label=Profile%20views&color=0e75b6&style=flat)
+Interactive quiz application
+
+- Leaderboard system
+- User profiles
+- Real-time quiz flow
+
+🔗 https://github.com/Vinayak-Chinchakhandi/Quick-quiz
 
 ---
 
-## 📫 Connect With Me  
+📊 Featured Work
 
-<p>
+🚇 Bengaluru Metro Network Dataset
+
+- Graph-based metro connectivity
+- Includes geospatial coordinates
+- Suitable for pathfinding & network analysis
+
+🔗 Kaggle: https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset
+🔗 GitHub: https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset
+
+---
+
+🧠 Current Focus
+
+- 🚀 ElevAIte – AI-powered placement preparation platform (in progress)
+- 📊 Resume analysis & recommendation systems
+- 🎯 Placement readiness prediction
+
+---
+
+📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak-Chinchakhandi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vinayak-Chinchakhandi&theme=tokyonight&hide_border=true" height="170"/>
+</p>---
+
+🎯 What Sets Me Apart
+
+- 📌 Focus on real-world problem solving, not just tutorials
+- 🔄 Continuously building and improving projects
+- 🧠 Strong interest in combining AI + Software Development
+- ⚡ Ability to quickly learn and apply new technologies
+
+---
+
+📫 Connect
+
+<p align="left">
   <a href="https://www.linkedin.com/in/vinayak-chinchakhandi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="mailto:vinayakchinchakhandi165@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/>
   </a>
-</p>
+</p>---
 
----
+⚡ Final Line
 
-⭐️ *Always building 🚀*
+«I don’t just build projects — I build systems that are meant to evolve.»
