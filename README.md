@@ -1,46 +1,49 @@
-👋 Hi, I'm Vinayak Chinchakhandi
-
-🚀 Full Stack Developer • AI Explorer • Problem Solver
-
-<p align="center">
-  <b>Building intelligent systems that solve real-world problems</b><br/>
+<!-- 🔥 Animated Header --><h1 align="center">Hi 👋, I'm Vinayak Chinchakhandi</h1><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Explorer;Problem+Solver;Building+Real-World+Solutions" />
+</p><p align="center">
+  <b>🚀 Building intelligent systems that solve real-world problems</b><br/>
   <i>Focused on Full Stack Development + AI Integration</i>
 </p>---
 
-⚡ Profile Snapshot
+🚀 Profile Snapshot
 
-- 🎓 Final Year B.E. @ KLS Gogte Institute of Technology, Belagavi
-- 💻 Full Stack Developer (React • Node • FastAPI)
-- 🤖 Exploring AI-driven applications & intelligent systems
-- 📡 ISOC Certified – Designing & Deploying Computer Networks (DDCN)
-- 🚇 Published Bengaluru Metro Network Dataset (Graph + Geo Data)
+<p align="center">🎓 <b>B.E. Student</b> @ KLS Gogte Institute of Technology, Belagavi <br/><br/>
 
----
+💻 <b>Full Stack Developer</b> (React • Node • FastAPI) <br/><br/>
+
+🤖 <b>Exploring AI-driven systems</b> & intelligent applications <br/><br/>
+
+📡 <b>ISOC Certified</b> – Designing & Deploying Computer Networks (DDCN) <br/><br/>
+
+🚇 <b>Published Bengaluru Metro Dataset</b> (Graph + Geo Data)
+
+</p>---
 
 💡 Core Strengths
 
-- 🧩 Problem-solving with structured thinking
-- 🌐 Building complete end-to-end applications
-- ⚙️ Integrating AI into practical workflows
-- 📊 Designing data-driven systems
-
----
+<p align="center">
+🧩 Problem Solving &nbsp;&nbsp;•&nbsp;&nbsp; 🌐 Full Stack Systems &nbsp;&nbsp;•&nbsp;&nbsp; ⚙️ AI Integration &nbsp;&nbsp;•&nbsp;&nbsp; 📊 Data Thinking
+</p>---
 
 🛠️ Tech Stack
 
-Languages
-Java • Python • C • JavaScript
+👨‍💻 Languages
 
-Frontend & Backend
-React • Node.js • Express • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>⚙️ Development
 
-Databases
-PostgreSQL • Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+</p>🗄️ Databases
 
-AI / Concepts
-Machine Learning • NLP • Recommendation Systems
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+</p>🧠 AI / Concepts
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>---
 
 🚀 Key Projects
 
@@ -48,35 +51,36 @@ Machine Learning • NLP • Recommendation Systems
 
 AI-powered cybersecurity platform
 
-- Phishing detection module
-- Email authentication features
-- AI assistant for security awareness
+- 🛡️ Phishing detection
+- 📧 Email authentication
+- 🤖 AI assistant
 
-🔗 https://github.com/Vinayak-Chinchakhandi/Secure-Sphere
+👉 "View Project" (https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)
 
 ---
 
 🎵 Moodify
 
-Mood-based music recommendation system
+Mood-based music recommendation platform
 
-- Emotion-based recommendation logic
-- Integrated media playback
-- Clean and responsive UI
+- 🎧 Emotion-based recommendation system
+- 🎬 Audio & video streaming support
+- ❤️ Favorites, playlists & listening history
+- ⚡ Smooth and customizable user experience
 
-🔗 https://github.com/Vinayak-Chinchakhandi/Moodify
+👉 "View Project" (https://github.com/Vinayak-Chinchakhandi/Moodify)
 
 ---
 
 🧠 Quick Quiz
 
-Interactive quiz application
+Interactive quiz platform
 
-- Leaderboard system
-- User profiles
-- Real-time quiz flow
+- 🏆 Leaderboard
+- 👤 User profiles
+- ⚡ Real-time quiz flow
 
-🔗 https://github.com/Vinayak-Chinchakhandi/Quick-quiz
+👉 "View Project" (https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
 
 ---
 
@@ -84,19 +88,19 @@ Interactive quiz application
 
 🚇 Bengaluru Metro Network Dataset
 
-- Graph-based metro connectivity
-- Includes geospatial coordinates
-- Suitable for pathfinding & network analysis
+- 📍 Graph-based connectivity
+- 🌍 Geospatial coordinates
+- 🔗 Optimized for pathfinding
 
-🔗 Kaggle: https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset
-🔗 GitHub: https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset
+👉 "View on Kaggle" (https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)
+👉 "View Repository" (https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)
 
 ---
 
 🧠 Current Focus
 
-- 🚀 ElevAIte – AI-powered placement preparation platform (in progress)
-- 📊 Resume analysis & recommendation systems
+- 🚀 ElevAIte – AI-powered placement platform (in progress)
+- 📊 Resume analysis systems
 - 🎯 Placement readiness prediction
 
 ---
@@ -104,30 +108,33 @@ Interactive quiz application
 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak-Chinchakhandi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vinayak-Chinchakhandi&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak-Chinchakhandi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vinayak-Chinchakhandi&theme=tokyonight&hide_border=true" height="165"/>
 </p>---
 
-🎯 What Sets Me Apart
+🎯 What Makes Me Different
 
-- 📌 Focus on real-world problem solving, not just tutorials
-- 🔄 Continuously building and improving projects
-- 🧠 Strong interest in combining AI + Software Development
-- ⚡ Ability to quickly learn and apply new technologies
-
----
+<p align="center">
+🚫 Real-world focus (not tutorial clones) <br/>
+🔄 Continuous improvement mindset <br/>
+🧠 AI + Development integration <br/>
+⚡ Fast learner & practical builder
+</p>---
 
 📫 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vinayak-chinchakhandi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:vinayakchinchakhandi165@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>---
 
-⚡ Final Line
+⚡ Final Thought
 
-«I don’t just build projects — I build systems that are meant to evolve.»
+<p align="center">
+  <b>"I build systems that grow, adapt, and solve real problems."</b>
+</p>
