@@ -108,7 +108,7 @@ Interactive quiz platform
 * 👤 User profiles
 * ⚡ Real-time quiz
 
-🔗**[View Project](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)**
+🔗[View Project](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
 
 <br/>
 
