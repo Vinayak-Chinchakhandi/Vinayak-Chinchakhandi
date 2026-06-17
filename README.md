@@ -1,180 +1,431 @@
-<!-- 🔥 Animated Header -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Vinayak Chinchakhandi</h1>
+<!-- ════════════════════════════════════════════════════════════
+     ANIMATED BANNER HEADER
+════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Explorer;Problem+Solver;Building+Real-World+Solutions" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vinayak%20Chinchakhandi&fontSize=55&fontColor=00f5ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Builder&descAlignY=60&descColor=a0a0ff&descSize=18"/>
 
-<p align="center">
-  <b>🚀 Building intelligent systems that solve real-world problems</b><br/>
-  <i>Focused on Full Stack Development + AI Integration</i>
-</p>
+</div>
 
-<br/>
+<div align="center">
 
-## 🚀 Profile Snapshot
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=55&lines=🚀+Building+Intelligent+Real-World+Systems;🤖+Full+Stack+%2B+AI+Integration+Developer;🎓+B.E.+@+KLS+Gogte+Institute+of+Technology;🛡️+AI+Security+%7C+🎵+Mood+AI+%7C+🚇+Smart+Metro;📊+20%2B+Projects+%7C+Open+Source+Contributor" alt="Typing SVG" />
 
-<p align="center">
+</div>
 
-🎓 <b>B.E. Student</b> @ KLS Gogte Institute of Technology, Belagavi <br/><br/>
-💻 <b>Full Stack Developer</b> (React • Node • FastAPI) <br/><br/>
-🤖 Exploring <b>AI-driven systems</b> & intelligent applications <br/><br/>
-📡 ISOC Certified – Designing & Deploying Computer Networks (DDCN) <br/><br/>
-🚇 Published <b>Bengaluru Metro Network Dataset</b>
+---
 
-</p>
+<div align="center">
 
-<br/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Vinayak-Chinchakhandi&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Vinayak-Chinchakhandi)
+[![GitHub followers](https://img.shields.io/github/followers/Vinayak-Chinchakhandi?color=a855f7&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/Vinayak-Chinchakhandi?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Vinayak-Chinchakhandi?color=f59e0b&style=for-the-badge&logo=github&label=STARS+EARNED)](https://github.com/Vinayak-Chinchakhandi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayak-chinchakhandi)
 
-## 💡 Core Strengths
+</div>
 
-<p>
-🧩 Problem Solving • 🌐 Full Stack Systems • ⚙️ AI Integration • 📊 Data Thinking
-</p>
+---
 
-<br/>
+## 🧑‍💻 About Me
 
-## 🛠️ Tech Stack
+```yaml
+name        : Vinayak Chinchakhandi
+role        : Full Stack Developer + AI Engineer
+education   : B.E. @ KLS Gogte Institute of Technology, Belagavi (Final Year)
+focus       : Building intelligent systems that solve real-world problems
+certify     : ISOC Certified — Designing & Deploying Computer Networks (DDCN)
+publication : Published Bengaluru Metro Network Dataset (Graph + Geospatial)
+currently   : 🚀 Building ElevAIte — AI-Powered Placement Platform
+contact     : linkedin.com/in/vinayak-chinchakhandi
+```
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayak-Chinchakhandi&theme=react-dark&bg_color=0d1117&color=00f5ff&line=a855f7&point=f59e0b&area=true&hide_border=true&area_color=00f5ff" width="100%"/>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinayak-Chinchakhandi&show_icons=true&theme=react&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Chinchakhandi&layout=compact&theme=react&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_color=30363d&langs_count=8&hide=css,html&card_width=380"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-Chinchakhandi&theme=react&background=0d1117&border=30363d&stroke=00f5ff&ring=a855f7&fire=f59e0b&currStreakNum=00f5ff&sideNums=c9d1d9&currStreakLabel=a855f7&sideLabels=a0a0ff&dates=6b7280" width="60%"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 ### 👨‍💻 Languages
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Development
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge"/>
-</p>
+### ⚛️ Frontend & Frameworks
+<div align="center">
 
-### 🗄️ Databases
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas%20API-ff6b35?style=for-the-badge&logo=html5&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge"/>
-</p>
+</div>
 
-### 🧠 AI / Concepts
+### 🔧 Backend & APIs
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Recommendation%20Systems-8E44AD?style=for-the-badge"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-<br/>
+</div>
 
-## 🚀 Key Projects
+### 🗄️ Databases & Cloud
+<div align="center">
 
-### 🔐 SecureSphere
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-AI-powered cybersecurity platform
+</div>
 
-* 🛡️ Phishing detection
-* 📧 Email authentication
-* 🤖 AI assistant
+### 🤖 AI / ML Stack
+<div align="center">
 
-🔗 **[View Project](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Architecture-6366f1?style=for-the-badge&logo=databricks&logoColor=white)
 
-<br/>
+</div>
 
-### 🎵 Moodify
+### 🔨 Dev Tools & Platforms
+<div align="center">
 
-Mood-based music recommendation platform
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-* 🎧 Emotion-based recommendation system
-* 🎬 Audio & video streaming
-* ❤️ Favorites, playlists & history
-* ⚙️ Personalized experience
+</div>
 
-🔗 **[View Project](https://github.com/Vinayak-Chinchakhandi/Moodify)**
+---
 
-<br/>
+## 🚀 Featured Projects
 
-### 🧠 Quick Quiz
+> **20 Repositories | Multi-domain AI + Full Stack Engineering**
 
-Interactive quiz platform
+---
 
-* 🏆 Leaderboard
-* 👤 User profiles
-* ⚡ Real-time quiz
+### 🛡️ SecureSphere — AI-Powered Cybersecurity Platform
+<div align="left">
 
-🔗[View Project](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Powered-412991?style=flat-square&logo=openai&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Vinayak-Chinchakhandi/Secure-Sphere?style=flat-square&color=f59e0b)
 
-<br/>
+</div>
 
-## 📊 Featured Work
+> An intelligent cybersecurity platform that defends against modern digital threats using AI
 
-### 🚇 Bengaluru Metro Network Dataset
+| Feature | Description |
+|--------|------------|
+| 🔐 Phishing Detection | Real-time URL & email phishing analysis using ML models |
+| 📧 Email Authentication | AI-based suspicious email pattern recognition |
+| 🤖 AI Security Assistant | Conversational assistant for cybersecurity guidance |
+| 📊 Threat Dashboard | Live threat visualization and monitoring |
 
-* 📍 Graph-based connectivity
-* 🌍 Geospatial coordinates
-* 🔗 Pathfinding ready
+[![View Repo](https://img.shields.io/badge/🔗_View_SecureSphere-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)
 
-🔗 **[Kaggle](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)**
+---
 
-🔗 **[Repository](https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)**
+### 🎵 Moodify — Emotion-Driven Music Intelligence
+<div align="left">
 
-<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Updated](https://img.shields.io/badge/Updated-May_2026-00f5ff?style=flat-square)
 
-## 🧠 Current Focus
+</div>
 
-<p align="center">
+> Detects your mood and curates perfectly matched music — with full audio/video streaming
 
-🚀 <b>ElevAIte</b> – AI-powered placement platform <i>(in progress)</i> <br/><br/>
-📊 Resume analysis & recommendation systems <br/><br/>
-🎯 Placement readiness prediction
+| Feature | Description |
+|--------|------------|
+| 🧠 Mood Detection | Real-time emotion analysis to personalize music |
+| 🎬 Audio & Video | Seamless in-app playback experience |
+| ❤️ Smart Playlists | Favorites, history & AI-personalized recommendations |
+| ☁️ Firebase Backend | Realtime sync with persistent user data |
 
-</p>
+[![View Repo](https://img.shields.io/badge/🔗_View_Moodify-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/Moodify)
 
-<br/>
+---
 
-## 📈 GitHub Insights
+### 🚇 Metro — AI Smart Metro Operations Platform
+<div align="left">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vinayak-Chinchakhandi&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Vinayak-Chinchakhandi/Metro?style=flat-square&color=f59e0b)
+![Updated](https://img.shields.io/badge/Updated-May_2026-00f5ff?style=flat-square)
 
-<br/>
+</div>
 
-## 🎯 What Makes Me Different
+> End-to-end AI-powered platform for Bengaluru Metro — from ticketing to demand prediction
 
-<p align="center">
+| Feature | Description |
+|--------|------------|
+| 🎫 QR Ticketing | Smart digital ticket generation & validation |
+| 📈 Demand Prediction | ML-based passenger flow forecasting |
+| 🕵️ Fraud Detection | Real-time anomaly detection in ticketing |
+| 📊 Live Analytics | Real-time station dashboards & interchange guidance |
 
-🚀 Focused on building <b>real-world solutions</b>, not just practice projects <br/><br/>
-📈 Strong mindset of <b>continuous learning and improvement</b> <br/><br/>
-🧠 Actively combining <b>AI with full-stack development</b> <br/><br/>
-⚡ Quick to adapt, learn, and <b>turn ideas into working systems</b>
+[![View Repo](https://img.shields.io/badge/🔗_View_Metro-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/Metro)
 
-</p>
+---
 
-<br/>
+### 📄 ResearchGPT — Multi-Document AI Research Platform
+<div align="left">
 
-## 📫 Connect
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-6366f1?style=flat-square&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Updated](https://img.shields.io/badge/Updated-Jun_2026-00f5ff?style=flat-square)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinayak-chinchakhandi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:vinayakchinchakhandi165@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge"/>
-  </a>
-</p>
+</div>
 
-<br/>
+> Upload multiple research PDFs, get source-aware AI answers with persistent workspaces
 
-## ⚡ Final Thought
+| Feature | Description |
+|--------|------------|
+| 📚 Multi-PDF RAG | Project-isolated Retrieval-Augmented Generation |
+| 🔍 Semantic Search | Sentence transformer embeddings for precise retrieval |
+| 💾 Persistent Workspaces | Save & resume research sessions anytime |
+| 🎯 Source-Aware AI | Pinpoints exact papers & pages for each response |
 
-<p align="center">
-  <b>"Learning, building, and improving with every project."</b>
-</p>
+[![View Repo](https://img.shields.io/badge/🔗_View_ResearchGPT-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/Research-Paper-Analysis)
+
+---
+
+### 🖌️ SyncBoard-AI — Real-Time Collaborative Whiteboard
+<div align="left">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio)
+![Canvas](https://img.shields.io/badge/Canvas_API-ff6b35?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-Apr_2026-00f5ff?style=flat-square)
+
+</div>
+
+> Collaborate in real-time on a canvas with AI-generated diagrams and smart drawing tools
+
+| Feature | Description |
+|--------|------------|
+| 🔴 Real-Time Sync | Multi-user live canvas via Socket.io |
+| 🤖 AI Diagrams | Generate diagrams from text prompts |
+| 🖼️ Rich Drawing | Shapes, arrows, freehand, sticky notes |
+| 👥 Collaboration | User presence indicators & cursors |
+
+[![View Repo](https://img.shields.io/badge/🔗_View_SyncBoard--AI-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/SyncBoard-AI)
+
+---
+
+### 🎓 FLMS — Faculty Leave Management System
+<div align="left">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AI Scheduling](https://img.shields.io/badge/AI_Scheduling-10b981?style=flat-square)
+![EdTech](https://img.shields.io/badge/EdTech-6366f1?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-May_2026-00f5ff?style=flat-square)
+
+</div>
+
+> Automates faculty leave, smart substitution scheduling & academic continuity tracking
+
+[![View Repo](https://img.shields.io/badge/🔗_View_FLMS-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/FLMS)
+
+---
+
+### 🗺️ Bengaluru Metro Network Dataset
+<div align="left">
+
+![Dataset](https://img.shields.io/badge/Open_Dataset-20BEFF?style=flat-square&logo=kaggle)
+![Graph](https://img.shields.io/badge/Graph_Based-10b981?style=flat-square)
+![Geospatial](https://img.shields.io/badge/Geospatial-f59e0b?style=flat-square)
+
+</div>
+
+> Published graph-based metro dataset with GPS coordinates and station connectivity — used for routing & analysis research
+
+[![View on Kaggle](https://img.shields.io/badge/📊_Kaggle_Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)
+[![View Repo](https://img.shields.io/badge/🔗_View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)
+
+---
+
+### 🧠 Quick Quiz — React Learning Platform
+<div align="left">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![EdTech](https://img.shields.io/badge/EdTech-6366f1?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-Nov_2025-00f5ff?style=flat-square)
+
+</div>
+
+> Modern quiz platform with category filters, global leaderboards & user profiles backed by JSONBin.io
+
+[![View Repo](https://img.shields.io/badge/🔗_View_Quick--Quiz-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
+
+---
+
+### 🌐 KKSS — Business Portfolio Website
+<div align="left">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployed_on_Vercel-000?style=flat-square&logo=vercel)
+![Stars](https://img.shields.io/github/stars/Vinayak-Chinchakhandi/KKSS?style=flat-square&color=f59e0b)
+
+</div>
+
+> Fully responsive business site for an event services company — deployed live on Vercel
+
+[![View Repo](https://img.shields.io/badge/🔗_View_KKSS-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/KKSS)
+
+---
+
+### 🚌 SmartBus + 🐦 Flappy Bird + 🧱 Brick Breaker
+
+> **More Projects** — Expanding across transportation, game development & utilities
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [SmartBus](https://github.com/Vinayak-Chinchakhandi/SmartBus) | JavaScript | Smart bus management platform |
+| [Flappy Bird](https://github.com/Vinayak-Chinchakhandi/Flappy_Bird_Game) | Python + Pygame | Game with sound effects & score tracking |
+| [Brick Breaker](https://github.com/Vinayak-Chinchakhandi/Brick_breaker) | Java | Classic arcade game rebuilt in Java |
+| [Task Manager](https://github.com/Vinayak-Chinchakhandi/Task-Management-System) | JavaScript | Full-featured task management system |
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Vinayak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak-Chinchakhandi&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=00f5ff&point=f59e0b&area=true&hide_border=true)](https://github.com/Vinayak-Chinchakhandi)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vinayak-Chinchakhandi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 Repository Stats Breakdown
+
+<div align="center">
+
+| Metric | Count |
+|--------|-------|
+| 📦 Total Repositories | 20 |
+| ⭐ Stars Earned | 4 |
+| 👥 Followers | 12 |
+| 🌐 Primary Language | JavaScript |
+| 🤖 AI-Powered Projects | 6+ |
+| 📊 Published Datasets | 1 (Kaggle) |
+| 🏅 Certifications | ISOC DDCN |
+| 🔗 LinkedIn | [in/vinayak-chinchakhandi](https://linkedin.com/in/vinayak-chinchakhandi) |
+
+</div>
+
+---
+
+## 🎯 Project Category Distribution
+
+```
+🤖 AI / ML Powered    ████████████████████  40%   (SecureSphere, Moodify, Metro, ResearchGPT, SyncBoard-AI, ElevAIte)
+🌐 Full Stack Apps    ████████████████      30%   (FLMS, Quick-Quiz, Task Manager, KKSS, SmartBus)
+📊 Data / Datasets    ████████              15%   (Bengaluru Metro Dataset, Research Analysis)
+🎮 Game Dev           ████                  10%   (Flappy Bird, Brick Breaker)
+🔧 Internship/Tools   ██                     5%   (SkillCraft Tasks - SCT_WD_1 to 4)
+```
+
+---
+
+## 🌱 Currently Building
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   🚀  ElevAIte  —  AI-Powered Placement Preparation Platform        │
+│                                                                     │
+│   📊  Resume Analysis & Role-Match Scoring                          │
+│   🎯  Placement Readiness Prediction Engine                          │
+│   🤖  AI-Driven Interview Prep & Question Bank                       │
+│   📈  Skill Gap Recommendations with Learning Paths                  │
+│                                                                     │
+│                 [ Status: 🔨 In Progress ]                          │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinayak%20Chinchakhandi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-chinchakhandi)
+[![GitHub](https://img.shields.io/badge/GitHub-Vinayak--Chinchakhandi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayak-Chinchakhandi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-vinayakchinchakhandi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)
+
+</div>
+
+---
+
+## 💭 Quote That Drives Me
+
+<div align="center">
+
+> *"Learning, building, and improving with every project."*
+> — **Vinayak Chinchakhandi**
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&fontSize=16&fontColor=00f5ff&animation=twinkling&fontAlignY=70&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20amazing%20together%20🚀"/>
+
+</div>
