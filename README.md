@@ -1,16 +1,12 @@
 <div align="center">
 
-<!-- ════════════════════════════════════════════════════════════
-     ANIMATED BANNER HEADER
-════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vinayak%20Chinchakhandi&fontSize=55&fontColor=00f5ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Builder&descAlignY=60&descColor=a0a0ff&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vinayak%20Chinchakhandi&fontSize=55&fontColor=00f5ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Real-World%20Projects&descAlignY=60&descColor=a0a0ff&descSize=18"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=55&lines=🚀+Building+Intelligent+Real-World+Systems;🤖+Full+Stack+%2B+AI+Integration+Developer;🎓+B.E.+@+KLS+Gogte+Institute+of+Technology;🛡️+AI+Security+%7C+🎵+Mood+AI+%7C+🚇+Smart+Metro;📊+20%2B+Projects+%7C+Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%9A%80+Building+Intelligent+Real-World+Systems;%F0%9F%A4%96+Full+Stack+%2B+AI+Integration+Developer;%F0%9F%8E%93+B.E.+%40+KLS+Gogte+Institute+of+Technology;%F0%9F%8E%B5+Moodify+%7C+ResearchGPT+%7C+Metro+AI" alt="Typing SVG" />
 
 </div>
 
@@ -36,8 +32,7 @@ education   : B.E. @ KLS Gogte Institute of Technology, Belagavi (Final Year)
 focus       : Building intelligent systems that solve real-world problems
 certify     : ISOC Certified — Designing & Deploying Computer Networks (DDCN)
 publication : Published Bengaluru Metro Network Dataset (Graph + Geospatial)
-currently   : 🚀 Building ElevAIte — AI-Powered Placement Platform
-contact     : linkedin.com/in/vinayak-chinchakhandi
+currently   : Building ElevAIte — AI-Powered Placement Platform
 ```
 
 <div align="center">
@@ -100,7 +95,6 @@ contact     : linkedin.com/in/vinayak-chinchakhandi
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -109,7 +103,6 @@ contact     : linkedin.com/in/vinayak-chinchakhandi
 ### 🤖 AI / ML Stack
 <div align="center">
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -132,32 +125,6 @@ contact     : linkedin.com/in/vinayak-chinchakhandi
 ---
 
 ## 🚀 Featured Projects
-
-> **20 Repositories | Multi-domain AI + Full Stack Engineering**
-
----
-
-### 🛡️ SecureSphere — AI-Powered Cybersecurity Platform
-<div align="left">
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Powered-412991?style=flat-square&logo=openai&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Vinayak-Chinchakhandi/Secure-Sphere?style=flat-square&color=f59e0b)
-
-</div>
-
-> An intelligent cybersecurity platform that defends against modern digital threats using AI
-
-| Feature | Description |
-|--------|------------|
-| 🔐 Phishing Detection | Real-time URL & email phishing analysis using ML models |
-| 📧 Email Authentication | AI-based suspicious email pattern recognition |
-| 🤖 AI Security Assistant | Conversational assistant for cybersecurity guidance |
-| 📊 Threat Dashboard | Live threat visualization and monitoring |
-
-[![View Repo](https://img.shields.io/badge/🔗_View_SecureSphere-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/Secure-Sphere)
-
----
 
 ### 🎵 Moodify — Emotion-Driven Music Intelligence
 <div align="left">
@@ -182,7 +149,7 @@ contact     : linkedin.com/in/vinayak-chinchakhandi
 
 ---
 
-### 🚇 Metro — AI Smart Metro Operations Platform
+### 🚇 Metro AI — Intelligent Metro Ticketing & Analytics Platform
 <div align="left">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -228,45 +195,6 @@ contact     : linkedin.com/in/vinayak-chinchakhandi
 
 ---
 
-### 🖌️ SyncBoard-AI — Real-Time Collaborative Whiteboard
-<div align="left">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio)
-![Canvas](https://img.shields.io/badge/Canvas_API-ff6b35?style=flat-square)
-![Updated](https://img.shields.io/badge/Updated-Apr_2026-00f5ff?style=flat-square)
-
-</div>
-
-> Collaborate in real-time on a canvas with AI-generated diagrams and smart drawing tools
-
-| Feature | Description |
-|--------|------------|
-| 🔴 Real-Time Sync | Multi-user live canvas via Socket.io |
-| 🤖 AI Diagrams | Generate diagrams from text prompts |
-| 🖼️ Rich Drawing | Shapes, arrows, freehand, sticky notes |
-| 👥 Collaboration | User presence indicators & cursors |
-
-[![View Repo](https://img.shields.io/badge/🔗_View_SyncBoard--AI-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/SyncBoard-AI)
-
----
-
-### 🎓 FLMS — Faculty Leave Management System
-<div align="left">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AI Scheduling](https://img.shields.io/badge/AI_Scheduling-10b981?style=flat-square)
-![EdTech](https://img.shields.io/badge/EdTech-6366f1?style=flat-square)
-![Updated](https://img.shields.io/badge/Updated-May_2026-00f5ff?style=flat-square)
-
-</div>
-
-> Automates faculty leave, smart substitution scheduling & academic continuity tracking
-
-[![View Repo](https://img.shields.io/badge/🔗_View_FLMS-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/FLMS)
-
----
-
 ### 🗺️ Bengaluru Metro Network Dataset
 <div align="left">
 
@@ -276,128 +204,57 @@ contact     : linkedin.com/in/vinayak-chinchakhandi
 
 </div>
 
-> Published graph-based metro dataset with GPS coordinates and station connectivity — used for routing & analysis research
+> Open-source Bengaluru Metro dataset containing station metadata, GPS coordinates, and network connectivity information for routing, graph analysis, and smart transportation research.
+
+| Feature | Description |
+|----------|------------|
+| 🚉 Station Metadata | Comprehensive station details across metro corridors |
+| 🌍 GPS Coordinates | Latitude & longitude data for geospatial analysis |
+| 🔗 Network Connectivity | Graph-based station connections for route modeling |
+| 🛣️ Pathfinding Ready | Suitable for shortest path and route optimization algorithms |
+| 📊 Research Friendly | Designed for transportation analytics and AI applications |
 
 [![View on Kaggle](https://img.shields.io/badge/📊_Kaggle_Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/vinayakchinchakhandi/bengaluru-metro-network-dataset)
 [![View Repo](https://img.shields.io/badge/🔗_View_Repo-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/Bengaluru-Metro-Network-Dataset)
 
 ---
 
-### 🧠 Quick Quiz — React Learning Platform
+### 🧠 Quick Quiz — Interactive Learning Platform
 <div align="left">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![EdTech](https://img.shields.io/badge/EdTech-6366f1?style=flat-square)
+![JSONBin](https://img.shields.io/badge/JSONBin.io-F97316?style=flat-square)
 ![Updated](https://img.shields.io/badge/Updated-Nov_2025-00f5ff?style=flat-square)
 
 </div>
 
-> Modern quiz platform with category filters, global leaderboards & user profiles backed by JSONBin.io
+> Interactive quiz platform featuring category-based assessments, leaderboard rankings, and performance tracking for engaging learning experiences.
+
+| Feature | Description |
+|----------|------------|
+| 📚 Category-Based Quizzes | Explore quizzes across multiple topics and domains |
+| 🏆 Global Leaderboard | Compete with users through real-time rankings |
+| 👤 User Profiles | Track scores, progress, and quiz history |
+| ⚡ Instant Evaluation | Receive immediate feedback and performance insights |
 
 [![View Repo](https://img.shields.io/badge/🔗_View_Quick--Quiz-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/Quick-quiz)
 
 ---
 
-### 🌐 KKSS — Business Portfolio Website
-<div align="left">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Deployed_on_Vercel-000?style=flat-square&logo=vercel)
-![Stars](https://img.shields.io/github/stars/Vinayak-Chinchakhandi/KKSS?style=flat-square&color=f59e0b)
-
-</div>
-
-> Fully responsive business site for an event services company — deployed live on Vercel
-
-[![View Repo](https://img.shields.io/badge/🔗_View_KKSS-0d1117?style=for-the-badge&logo=github)](https://github.com/Vinayak-Chinchakhandi/KKSS)
-
----
-
-### 🚌 SmartBus + 🐦 Flappy Bird + 🧱 Brick Breaker
-
-> **More Projects** — Expanding across transportation, game development & utilities
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| [SmartBus](https://github.com/Vinayak-Chinchakhandi/SmartBus) | JavaScript | Smart bus management platform |
-| [Flappy Bird](https://github.com/Vinayak-Chinchakhandi/Flappy_Bird_Game) | Python + Pygame | Game with sound effects & score tracking |
-| [Brick Breaker](https://github.com/Vinayak-Chinchakhandi/Brick_breaker) | Java | Classic arcade game rebuilt in Java |
-| [Task Manager](https://github.com/Vinayak-Chinchakhandi/Task-Management-System) | JavaScript | Full-featured task management system |
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Vinayak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak-Chinchakhandi&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=00f5ff&point=f59e0b&area=true&hide_border=true)](https://github.com/Vinayak-Chinchakhandi)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vinayak-Chinchakhandi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 Repository Stats Breakdown
-
-<div align="center">
-
-| Metric | Count |
-|--------|-------|
-| 📦 Total Repositories | 20 |
-| ⭐ Stars Earned | 4 |
-| 👥 Followers | 12 |
-| 🌐 Primary Language | JavaScript |
-| 🤖 AI-Powered Projects | 6+ |
-| 📊 Published Datasets | 1 (Kaggle) |
-| 🏅 Certifications | ISOC DDCN |
-| 🔗 LinkedIn | [in/vinayak-chinchakhandi](https://linkedin.com/in/vinayak-chinchakhandi) |
-
-</div>
-
----
-
-## 🎯 Project Category Distribution
-
-```
-🤖 AI / ML Powered    ████████████████████  40%   (SecureSphere, Moodify, Metro, ResearchGPT, SyncBoard-AI, ElevAIte)
-🌐 Full Stack Apps    ████████████████      30%   (FLMS, Quick-Quiz, Task Manager, KKSS, SmartBus)
-📊 Data / Datasets    ████████              15%   (Bengaluru Metro Dataset, Research Analysis)
-🎮 Game Dev           ████                  10%   (Flappy Bird, Brick Breaker)
-🔧 Internship/Tools   ██                     5%   (SkillCraft Tasks - SCT_WD_1 to 4)
-```
-
----
-
 ## 🌱 Currently Building
 
-<div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   🚀  ElevAIte  —  AI-Powered Placement Preparation Platform        │
-│                                                                     │
-│   📊  Resume Analysis & Role-Match Scoring                          │
-│   🎯  Placement Readiness Prediction Engine                          │
-│   🤖  AI-Driven Interview Prep & Question Bank                       │
-│   📈  Skill Gap Recommendations with Learning Paths                  │
-│                                                                     │
-│                 [ Status: 🔨 In Progress ]                          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+### 🚀 ElevAIte
+AI-Powered Placement Preparation Platform
 
-</div>
+📊 Resume Analysis  
+🎯 Placement Readiness Prediction  
+🤖 AI Interview Preparation  
+📈 Skill Gap Analysis & Learning Paths  
+
+🔨 **Status:** In Progress
+
 
 ---
 
@@ -411,6 +268,7 @@ contact     : linkedin.com/in/vinayak-chinchakhandi
 
 </div>
 
+
 ---
 
 ## 💭 Quote That Drives Me
@@ -418,7 +276,6 @@ contact     : linkedin.com/in/vinayak-chinchakhandi
 <div align="center">
 
 > *"Learning, building, and improving with every project."*
-> — **Vinayak Chinchakhandi**
 
 </div>
 
